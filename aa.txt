@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Git creates a new branch is quick AND simple.
 Merge branch with option --no-ff.
+Add feature vulcan.
